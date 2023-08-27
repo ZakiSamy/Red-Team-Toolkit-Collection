@@ -1,4 +1,9 @@
 # Red Team Toolkit Collection
+
+<p align="center">
+  <img src="https://github.com/ZakiSamy/Red-Team-Toolkit-Collection/assets/46085504/388b79a8-2910-4a06-b27a-138b57061cc6" alt="Alt Text" width="500" />
+</p>
+
 Welcome to the Red Team Toolkit Collection repository, a curated compilation of cutting-edge tools and essential resources meticulously chosen to elevate your red teaming capabilities. This repository is dedicated to providing a diverse array of tools specifically selected to aid in various red teaming activities, from reconnaissance and exploitation to privilege escalation and lateral movement.
 
 ## Features
