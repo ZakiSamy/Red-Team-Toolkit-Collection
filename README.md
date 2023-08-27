@@ -1,6 +1,4 @@
-```markdown
 # Red Team Toolkit Collection
-
 Welcome to the Red Team Toolkit Collection repository, a curated compilation of cutting-edge tools and essential resources meticulously chosen to elevate your red teaming capabilities. This repository is dedicated to providing a diverse array of tools specifically selected to aid in various red teaming activities, from reconnaissance and exploitation to privilege escalation and lateral movement.
 
 ## Features
@@ -13,5 +11,3 @@ To dive into the toolkit, explore our meticulously organized categories and docu
 
 ## Disclaimer
 The materials in this repository are for informational and educational purposes only. They are not intended for use in any illegal activities. Please respect ethical guidelines and legal boundaries.
-
-
