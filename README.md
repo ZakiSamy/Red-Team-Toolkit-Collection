@@ -16,3 +16,35 @@ To dive into the toolkit, explore our meticulously organized categories and docu
 
 ## Disclaimer
 The materials in this repository are for informational and educational purposes only. They are not intended for use in any illegal activities. Please respect ethical guidelines and legal boundaries.
+
+
+## Reconnaissance
+
+## Resource Development
+  
+
+## Initial Access
+
+## Execution
+
+## Persistence
+
+## Privilege Escalation
+
+## Defence Evasion
+
+## Credential Access
+
+## Discovery
+
+## Lateral Movement
+
+## Collection
+
+## Command and Control
+
+## Exfiltration
+
+## Impact
+
+## Misc
