@@ -18,6 +18,10 @@ To dive into the toolkit, explore our meticulously organized categories and docu
 The materials in this repository are for informational and educational purposes only. They are not intended for use in any illegal activities. Please respect ethical guidelines and legal boundaries.
 
 
+## License
+This work is licensed under a [Creative Commons Attribution 4.0 International License](LICENSE.md).
+
+
 ## Reconnaissance
 - [**Maltego**](https://www.paterva.com/web7/downloads.php): Platform to deliver a clear threat picture to the environment that an organisation owns and operates.
 - [**SpiderFoot**](https://github.com/smicallef/spiderfoot): Open source footprinting and intelligence-gathering tool.
